@@ -8,9 +8,13 @@ Credits To:
 -QGIS version 4.2.3-Belém do Pará
 
 This method of calculating percentages within this program has its limitations, such as:
+
 -OSM may be incomplete, so low values can partly reflect missing parks.
+
 -A straight-line 500 m buffer ignores real walking routes, rivers and roads.
+
 -WorldPop is a modeled estimate, not a census count.
+
 -The 0.1 ha cutoff was a choice, and a different cutoff would change the numbers.
 
 
